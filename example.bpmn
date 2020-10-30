@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bioc="http://bpmn.io/schema/bpmn/biocolor/1.0" id="Definitions_1" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="1.10.0">
   <bpmn:process id="Process_1" isExecutable="true">
-    <bpmn:subProcess id="SubProcess_0gc6evc" name="Cash Withdrawal">
+    <bpmn:subProcess id="SubProcess_0gc6evc" name="Cash Withdrawala">
       <bpmn:incoming>SequenceFlow_0t9dyy4</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_1ge46mh</bpmn:outgoing>
       <bpmn:task id="Task_1upmjgh" name="Prepare Cash">
